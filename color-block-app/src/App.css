@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.app-header {
+  font-family: 'Arial', sans-serif;
+  font-size: 2rem;
+  color: #333;
+  margin-top: 30px;
+}
